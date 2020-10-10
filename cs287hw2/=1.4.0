@@ -1,0 +1,4 @@
+Collecting glfw
+  Using cached glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_x86_64.whl (203 kB)
+Installing collected packages: glfw
+Successfully installed glfw-2.0.0
